@@ -6,5 +6,7 @@ The board features fairly easy to hand solder components, such as 0805 resistors
 The programming connector is a standard FTDI USB-UART adapter pin-out. The solder jumper (JP1) is closed by default. The board can be powered from the breadboard pin headers or the FTDI programming header. Using an FTDI TTL-232RG-VIP USB-UART adapter, the TTL voltage (Vttl) would be the same as the Vcc.
 
 The Bill of Materials is also included (see file ATmega1284P.csv).
-![Image](https://github.com/DCelectronics/ATmega1284P_Board/blob/main/ATMEGA1284P_FRONT.png)
-![Image](https://github.com/DCelectronics/ATmega1284P_Board/blob/main/ATMEGA1284P_BACK.png)
+
+![Image](https://github.com/dcelctr/ATmega1284P_Board/blob/master/ATMEGA1284P_FRONT.png)
+
+![Image](https://github.com/dcelctr/ATmega1284P_Board/blob/master/ATMEGA1284P_BACK.png)
