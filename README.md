@@ -7,6 +7,6 @@ The programming connector is a standard FTDI USB-UART adapter pin-out. The solde
 
 The Bill of Materials is also included (see file ATmega1284P.csv).
 
-![Image](https://github.com/dcelctr/ATmega1284P_Board/blob/master/ATMEGA1284P_FRONT.png)
+![Image](https://github.com/dcelectr/ATmega1284P_Board/blob/master/ATMEGA1284P_FRONT.png)
 
-![Image](https://github.com/dcelctr/ATmega1284P_Board/blob/master/ATMEGA1284P_BACK.png)
+![Image](https://github.com/dcelectr/ATmega1284P_Board/blob/master/ATMEGA1284P_BACK.png)
